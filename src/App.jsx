@@ -1,5 +1,5 @@
 
-import CommentList from './features/CommentList'
+import DataList from './features/DataList'
 import './App.css'
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
       </nav>
       <div>
         <h3>Comment List</h3>
-        <CommentList />
+        <DataList />
       </div>
     </main>
   )
